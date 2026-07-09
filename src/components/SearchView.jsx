@@ -79,7 +79,7 @@ export default function SearchView({ guests }) {
         </div>
         <p className="text-slate-500 text-sm mb-4">Find your table on the floor plan below:</p>
         <img
-          src="/floor-plan.svg"
+          src="/floor-plan.png"
           alt="Event floor plan"
           className="w-full rounded-xl border border-slate-200 mb-6"
         />
